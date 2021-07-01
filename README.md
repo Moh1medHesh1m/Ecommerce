@@ -1,2 +1,0 @@
-# Ecommerce
-Ecommerce application where 
